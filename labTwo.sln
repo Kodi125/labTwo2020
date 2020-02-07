@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labTwo", "labTwo\labTwo.csproj", "{7AFD967B-9A5A-4B14-9EEC-C40087F9F2BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise1", "exercise1\exercise1.csproj", "{9AAFBB48-7907-4F8B-BD0C-577D99151462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercise3", "exercise3\exercise3.csproj", "{7F8B2B88-E00E-4461-9474-D679D80048E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AFD967B-9A5A-4B14-9EEC-C40087F9F2BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFD967B-9A5A-4B14-9EEC-C40087F9F2BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AFD967B-9A5A-4B14-9EEC-C40087F9F2BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AFD967B-9A5A-4B14-9EEC-C40087F9F2BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAFBB48-7907-4F8B-BD0C-577D99151462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAFBB48-7907-4F8B-BD0C-577D99151462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAFBB48-7907-4F8B-BD0C-577D99151462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAFBB48-7907-4F8B-BD0C-577D99151462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8B2B88-E00E-4461-9474-D679D80048E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8B2B88-E00E-4461-9474-D679D80048E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8B2B88-E00E-4461-9474-D679D80048E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8B2B88-E00E-4461-9474-D679D80048E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D370D6CE-1166-4084-BEC6-8587BDC141CD}
+	EndGlobalSection
+EndGlobal
